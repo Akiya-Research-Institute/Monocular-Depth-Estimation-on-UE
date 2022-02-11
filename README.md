@@ -1,5 +1,5 @@
 # Monocular-Depth-Estimation-on-UE4
-UE4 project using NNEngine and MiDaS, monocular depth estimation AI
+UE4 project using NNEngine and [MiDaS](https://github.com/isl-org/MiDaS), monocular depth estimation AI
 
 ## Environments
 
