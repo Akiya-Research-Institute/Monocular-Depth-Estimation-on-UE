@@ -10,7 +10,6 @@ Example UE4 project for depth estimation using a single RGB camera.
 
 ## Download
 
-Demo project is available on [GitHub](https://github.com/Akiya-Research-Institute/Monocular-Depth-Estimation-on-UE4).  
 Please download from the [release](https://github.com/Akiya-Research-Institute/Monocular-Depth-Estimation-on-UE4/releases) page.
 
 ## Run the demo
