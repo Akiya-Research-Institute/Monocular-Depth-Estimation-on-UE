@@ -73,3 +73,17 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Source/ThirdParty/Models/midas_1x384x384xBGRxByte.onnx
+Source/ThirdParty/Models/dpt_hybrid_192x256.onnx
+Source/ThirdParty/Models/dpt_hybrid_256x320.onnx
+Source/ThirdParty/Models/dpt_hybrid_384x480.onnx
+Source/ThirdParty/Models/dpt_hybrid_480x640.onnx
+Source/ThirdParty/Models/dpt_hybrid_96x128.onnx
+Source/ThirdParty/Models/dpt_hybrid_kitti_256x320.onnx
+Source/ThirdParty/Models/dpt_hybrid_kitti_384x480.onnx
+Source/ThirdParty/Models/dpt_hybrid_kitti_480x640.onnx
+Source/ThirdParty/Models/dpt_hybrid_nyu_256x320.onnx
+Source/ThirdParty/Models/dpt_hybrid_nyu_384x480.onnx
+Source/ThirdParty/Models/dpt_hybrid_nyu_480x640.onnx
+Source/ThirdParty/Models/dpt_large_256x320.onnx
+Source/ThirdParty/Models/dpt_large_384x480.onnx
+Source/ThirdParty/Models/dpt_large_480x640.onnx
