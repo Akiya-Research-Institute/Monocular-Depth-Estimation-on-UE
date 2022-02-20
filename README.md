@@ -6,6 +6,10 @@ Example UE4 project for depth estimation using a single RGB camera.
 
 https://user-images.githubusercontent.com/89242761/154613825-dccfd6a0-5617-4e2a-aa8b-63f92d0131a4.mp4
 
+(DPT model demo)
+
+https://user-images.githubusercontent.com/89242761/154831579-bd692f95-278c-47b1-952f-fd360948473e.mp4
+
 ## Environment
 
 - OS: Windows 10 64bit
