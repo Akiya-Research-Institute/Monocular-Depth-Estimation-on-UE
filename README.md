@@ -26,6 +26,10 @@ Please download from the [release](https://github.com/Akiya-Research-Institute/M
 2. After launching, click `Play` on the editor to start the demo that performs AI estimation for the pre-recorded video.
 3. To run on your webcam, specify the webcam you want to use in `/Content/Common/MediaPlayer_webcam.uasset`.
 
+## Step-by-step guide to implementation
+
+[![Step-by-step guideat youtube](http://img.youtube.com/vi/sTSlhYOePDE/0.jpg)](http://www.youtube.com/watch?v=sTSlhYOePDE)
+
 ## Additional models
 
 ### Large model
