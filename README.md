@@ -40,6 +40,10 @@ If you want to use the large model (whose input image size is 384x384), download
 
 To use DPT model, download model from [here (GitHub Release page)](https://github.com/Akiya-Research-Institute/Monocular-Depth-Estimation-on-UE4/releases/download/v1.3/dpt_hybrid_256x320.onnx) or [here (Google Drive)](https://drive.google.com/file/d/12mLc0usb0qLb5LlKhE1EEQhP7Kyp1qiH/view?usp=sharing) and place it under `Source\ThirdParty\Models`. Then, open `/Content/DepthEstimation/DPT/test_DPT.map` and click `Play`.
 
+### TCMonoDepth model
+
+To use TCMonoDepth model, download model from [here (GitHub Release page)](https://github.com/Akiya-Research-Institute/Monocular-Depth-Estimation-on-UE4/releases/download/v1.4/TCMonoDepth_1x384x384xBGRxByte.onnx) or [here (Google Drive)](https://drive.google.com/file/d/1lbLcU2J_mHwI2C3_jdIeWpuiUS6M68a-/view?usp=sharing) and place it under `Source\ThirdParty\Models`. Then, open `/Content/DepthEstimation/TCMonoDepth/test_TCMonoDepth.map` and click `Play`.
+
 ## Display camera image to the preview mesh
 
 By switching the base color pin of `/Content/DepthEstimation/Grayscale_WPO.uasset`, you can 
@@ -62,3 +66,8 @@ See the following pages for the details of the model used in this project.
 Converted to ONNX by
 
 - [PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo)
+
+### TCMonoDepth model
+
+- [Enforcing Temporal Consistency in Video Depth Estimation](https://openaccess.thecvf.com/content/ICCV2021W/PBDL/papers/Li_Enforcing_Temporal_Consistency_in_Video_Depth_Estimation_ICCVW_2021_paper.pdf)
+- [GitHub](https://github.com/yu-li/TCMonoDepth)
