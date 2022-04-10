@@ -1,6 +1,7 @@
-# Monocular Depth estimation on UE4
+# Monocular Depth estimation on UE4 and UE5
 
-Example UE4 project for depth estimation using a single RGB camera.  
+Example UE project for depth estimation using a single RGB camera.  
+See [ue5 branch](https://github.com/Akiya-Research-Institute/Monocular-Depth-Estimation-on-UE/tree/ue5) to use with UE5.  
 [(日本語の説明はこちら)](https://akiya-research-institute.github.io/NNEngine-API/ja/demo-project-overview-depth-estimation/
 )  
 
