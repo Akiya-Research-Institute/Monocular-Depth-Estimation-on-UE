@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/89242761/154831579-bd692f95-278c-47b1-
 
 - OS: Windows 10 64bit
 - Unreal Engine: 4.26.2
-- [NNEngine plugin](https://www.unrealengine.com/marketplace/product/74892c770dc149b1b5c4e872804e6ade)
+- [NNEngine plugin](https://www.fab.com/listings/67591270-75f6-456d-aa89-c64e1e0ee05f)
 
 ## Download
 
